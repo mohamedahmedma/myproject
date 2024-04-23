@@ -1,1 +1,1 @@
-alert("hello Mohamed");
+alert("hello Mohamed.");
