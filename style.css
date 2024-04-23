@@ -1,5 +1,9 @@
 h1{
     font-weight: 800;
-    color: rebeccapurple;
+    color: red;
     font-size: xx-large;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: max-content;
 }
